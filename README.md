@@ -30,22 +30,6 @@ Before running the application, ensure you have the following software installed
 
 Node.js: Download and install Node.js
 
-
-
-Simple CRUD with Login and Register Flow using React, JSON Server, React Toastify, and Tailwind CSS
-This repository contains a simple implementation of a CRUD (Create, Read, Update, Delete) application with a basic login and register flow using React, JSON Server, React Toastify, and Tailwind CSS. Please note that this implementation does not include authentication and authorization features, making it suitable for learning and demonstration purposes.
-
-Features
-Create, Read, Update, and Delete operations for a sample entity (e.g., "Item").
-Basic user registration and login functionality without authentication and authorization.
-Integration of React Router for page navigation.
-Use of React Toastify for displaying user notifications.
-Styling with Tailwind CSS.
-Prerequisites
-Before running the application, ensure you have the following software installed:
-
-Node.js: Download and install Node.js
-
 Getting Started:-
 1.Clone this repository to your local machine:
 https://github.com/PankajKumarKar/simple-crud-login-register-react.git
